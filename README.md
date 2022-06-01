@@ -1,6 +1,7 @@
-### Hi, I'm May-Tove 👋
+### Hi there 👋 my name is May-Tove 
+#### I am a front-end development student
 
-I am currently studying Front-end Development online through Noroff School of Technology and digital media
+
 
 - 📫 How to reach me: [email](maytoveh@gmail.com)
 
