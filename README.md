@@ -1,9 +1,15 @@
 ### Hi there 👋 my name is May-Tove 
-#### I am a front-end development student based in Norway
+#### I am a front-end development student based in Norway :woman_technologist:
 
 After 7 years in the hotel industry i finally made the decition to aim for a digital future and i could not be happier about it! I am currently finishing the first year of my studies and will begin my second and last year this fall.
 
-I have a passion for learning new things, problem solving and creating good design wrapped in structured code. :woman_technologist:
+#### I am passionate about
+- :computer: Technology
+- :art: Design
+- :nerd_face: Learning new things
+- :bulb: Problem solving
+- :couch_and_lamp: Interior
+- :earth_africa: Travel
 
 #### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
