@@ -2,6 +2,7 @@
 #### I am a front-end development student based in Norway
 
 After 7 years in the hotel industry i finally made the decition to aim for a digital future and i could not be happier about it! I am currently finishing the first year of my studies and will begin my second and last year this fall.
+
 I have a passion for learning new things, problem solving and creating good design wrapped in structured code. :woman_technologist:
 
 #### Skills
@@ -10,7 +11,7 @@ I have a passion for learning new things, problem solving and creating good desi
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-- 📫 How to reach me: [email](maytoveh@gmail.com)
+📫 How to reach me: maytoveh@gmail.com
 
 <!--
 **May-Tove/May-Tove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
