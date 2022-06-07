@@ -7,7 +7,6 @@ After 7 years in the hotel industry i finally made the decition to aim for a dig
 - :computer: Technology
 - :art: Design
 - :nerd_face: Learning new things
-- :bulb: Problem solving
 - :couch_and_lamp: Interior
 - :earth_africa: Travel
 
