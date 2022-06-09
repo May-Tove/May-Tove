@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is May-Tove 
 #### I am a front-end development student based in Norway :woman_technologist:
 
-After 7 years in the hotel industry i finally made the decition to aim for a digital future. I am currently finishing the first year of my studies and will begin my second and last year this fall.
+After 7 years in the hotel industry i finally made the decition to aim for a digital future. I am currently finishing the first year of my studies at Noroff and will begin my second and last year this fall.
 
 #### I am passionate about
 - :computer: Technology
