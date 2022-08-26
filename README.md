@@ -10,12 +10,6 @@ After 7 years in the hotel industry i finally made the decition to aim for a dig
 - :couch_and_lamp: Interior
 - :earth_africa: Travel
 
-#### Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-
 📫 How to reach me: maytoveh@gmail.com or [Linkedin](https://www.linkedin.com/in/may-tove-hovdal-24b406153/)
 
 <!--
