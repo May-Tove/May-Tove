@@ -1,6 +1,5 @@
 ### Hi there 👋 my name is May-Tove 
 #### I am a front-end development student based in Norway :woman_technologist:
-I am currently finishing the first year of my studies at Noroff and will begin my second and last year this fall.
 
 #### I am passionate about
 - :computer: Technology
